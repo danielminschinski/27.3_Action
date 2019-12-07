@@ -1,0 +1,23 @@
+{
+  "name": "27.3_Action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielminschinski/27.3_Action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielminschinski/27.3_Action/issues"
+  },
+  "homepage": "https://github.com/danielminschinski/27.3_Action#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
